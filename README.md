@@ -14,4 +14,4 @@ Below are some examples and descriptions of the stories that I worked on with sc
 
 For this story, the slideshow on the home page would not display unless the user is logged in as an "Admin". I was tasked with fixing this issue so that anyone would have access to the slideshow on the homepage.
 
-![](Screenshot%20(61).png)
+![](Images/Screenshot%20(61).png)
