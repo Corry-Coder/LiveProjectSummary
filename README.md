@@ -19,8 +19,8 @@ For this story, the slideshow on the home page would not display unless the user
 
 ## Front End Stories
 
-*CSS Jitter Story
-*Subscriber Edit Story
+* CSS Jitter Story
+* Subscriber Edit Story
 
 ## CSS Jitter Story
 
@@ -30,8 +30,8 @@ For this story, on the register page, the input fields for the form would move w
 
 For this story, the edit page of the Subscriber section was not very responsive and appealing. My task was to make thepage responsive to users of all screen sizes. I also had to use styling to make the page look aesthetically pleasing. The following screenshots show my progress during  this task.
 
-![](Images/Screenshot%20(51).png
+![](Images/Screenshot%20(51).png)
 
-![](Images/Screenshot%20(55).png
+![](Images/Screenshot%20(55).png)
 
-![](Images/Screenshot%20(57).png
+![](Images/Screenshot%20(57).png)
